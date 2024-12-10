@@ -1,7 +1,7 @@
 title: EDEN products
 description: bio degradable
 baseurl: "/"
-url: "https://UncleDhope.github.io"
+url: "https://uncledhope.github.io/eden2/"
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
